@@ -22,7 +22,7 @@
 		$top_table = "naver";
 		$top_nomber = $_GET["naver"];
 	}
-
+#test2
 		$local = "localhost";
 		$user = "mugenantena";
 		$pass = "mugen19260327";
